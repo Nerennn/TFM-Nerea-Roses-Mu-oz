@@ -1,0 +1,7 @@
+Análisis de temas para PP (TODOS LOS TWEETS)
+Total de tweets analizados: 123
+
+Tema 1: gobierno, sánchez, pedro, apagón, presidente, corrupción, trenes, merece, bien, sabía, colapso, agua, hermano, millones, impuestos, único, después, sr, comida, pedir, información, caos, elecciones, vergüenza, desinformación, ministro, sabe, rodea, vida, personas
+
+Tema 2: psoe, verdad, necesita, pues, imputados, díez, quién, diga, tiempo, leire, claro, propia, cambio, entorno, corrupción, seguridad, pp, gobernar, próximo, política, veces, conocen, ministros, tren, casa, útil, dice, cara, merece, puente
+
