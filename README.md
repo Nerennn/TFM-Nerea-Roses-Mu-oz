@@ -11,7 +11,7 @@ Este repositorio contiene herramientas para el análisis de datos relacionados c
 - **`import unittest.py`**: Pruebas unitarias para el scraper de Bluesky.
 - **`environment.yml`**: Archivo para configurar el entorno conda con las dependencias necesarias.
 - **`base_conjunta.csv`**: Archivo CSV que contiene los datos combinados de todos los perfiles políticos.
-- **Archivos CSV individuales**: Datos filtrados por perfil político (e.g., `PEDRO SÁNCHEZ_filtered.csv`, `VOX_filtered.csv`).
+- **Archivos CSV individuales**: Datos filtrados por perfil político (e.g., `PEDRO SÁNCHEZ_filtered_lider.csv`, `VOX_filtered_lider.csv`).
 
 ### Funcionalidades
 1. **Limpieza de Datos**: Scripts para filtrar columnas relevantes, eliminar retweets y añadir columnas como `blackout` y `nombre`.
@@ -30,12 +30,16 @@ Este repositorio contiene herramientas para el análisis de datos relacionados c
 
 ### Instalación
 1. **Clonar el repositorio**:
-'''   git clone https://github.com/usuario/repositorio.git
-   cd repositorio'''
+```
+git clone https://github.com/Nerennn/TFM-Nerea-Roses-Mu-oz.git
+cd TFM-Nerea-Roses-Mu-oz
+```
 
 2. **Crear el entorno conda:**
-'''conda env create -f environment.yml
-conda activate sentimentanal'''
+```
+conda env create -f environment.yml
+conda activate sentimentanal
+```
 
 ## Ejecución
 ### Limpieza de Datos
@@ -43,8 +47,9 @@ Ejecutar los scripts de limpieza en el notebook Roses_Nerea_TFM.ipynb.
 
 ### Scraping de Datos
 Ejecutar el script import asyncio.py para obtener datos desde la API de Bluesky:
-'''python import asyncio.py
-'''
+```
+python import asyncio.py
+```
 ### Análisis Exploratorio
 Abrir el notebook Roses_Nerea_TFM.ipynb y ejecutar las celdas correspondientes al análisis exploratorio.
 
