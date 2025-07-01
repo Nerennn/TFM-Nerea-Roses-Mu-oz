@@ -1,0 +1,41 @@
+COMPARACIÓN DE TEMAS ENTRE PERFILES POLÍTICOS (TODOS LOS TWEETS)
+==================================================
+
+PEDRO SÁNCHEZ:
+  Tema 1: hoy, enhorabuena, familia, victoria, va, derechos, valores, historia, españa, defensa
+  Tema 2: españa, europa, gaza, gracias, mejor, compromiso, feijóo, seguridad, usted, futuro
+
+ABASCAL:
+  Tema 1: sánchez, gobierno, peor, llegar, cada, ahora, pueblo, mayor, ser, energética
+  Tema 2: sánchez, hace, europa, pp, ver, corrupción, solo, apagón, día, partido
+
+FEIJÓO:
+  Tema 1: españa, gobierno, sánchez, españoles, apagón, país, mundo, cambio, gran, merece
+  Tema 2: enhorabuena, europa, felicidades, sánchez, partido, toda, esfuerzo, después, madrid, siempre
+
+PP:
+  Tema 1: gobierno, sánchez, pedro, españa, apagón, corrupción, españoles, psoe, presidente, merece
+  Tema 2: día, hoy, días, agenda, buenos, menos, españoles, país, bien, va
+
+PSOE:
+  Tema 1: mayo, ejecutiva, buenas, agenda, compartimos, psoe, tardes, mañana, federal, comisión
+  Tema 2: personas, europa, seguridad, gente, queremos, social, catalunya, afiliados, años, psoe
+  Tema 3: día, hoy, mundo, tiempo, europa, víctimas, jornada, propia, fotos, mes
+  Tema 4: españa, gobierno, pp, frente, democracia, vamos, crisis, ser, vox, prensa
+  Tema 5: pp, españa, feijóo, país, zona, roja, partir, pierdas, siempre, gobierno
+  Tema 6: vez, ayer, débiles, hace, años, historia, futuro, país, planteando, derechos
+
+VOX:
+  Tema 1: vox, partido, tribunal, afiliados, cuentas, sánchez, simpatizantes, urgente, frente, mayo
+  Tema 2: vox, gobierno, españoles, recuperarlotodo, corrupción, vez, psoe, bipartidismo, sólo, frente
+  Tema 3: sánchez, españa, pedro, gobierno, vox, pp, psoe, apagón, portavoz, firma
+
+salidasumar:
+  Tema 1: jornada, laboral, reducción, vamos, trabajadoras, vida, personas, vivir, medida, ser
+  Tema 2: apagón, eléctrico, tras, va, gracias, económicos, intereses, renovables, servicio, nucleares
+  Tema 3: hoy, pp, israel, derecho, país, puede, garantizar, hacia, público, gobierno
+
+salidayolanda:
+  Tema 1: personas, hoy, país, trabajo, trabajadoras, derechos, laboral, seguir, empresas, laborales
+  Tema 2: derechos, jornada, vida, tiempo, mejor, esperanza, vamos, trabajadoras, menos, laboral
+

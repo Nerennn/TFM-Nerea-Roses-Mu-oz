@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Archivo actual",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "env": {
+                "BLUESKY_APP_PASSWORD": "NereaTFM2025",
+                "BLUESKY_IDENTIFIER": "neretfm2025.bsky.social"
+            }
+        }
+    ]
+}
